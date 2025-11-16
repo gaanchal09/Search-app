@@ -1,0 +1,32 @@
+[
+  {
+    "id": "doc-001",
+    "title": "Q3 Product Launch Brief",
+    "body": "Campaign details, messages, timelines for Q3 launch.",
+    "project": "Product Launch",
+    "team": "Growth",
+    "type": "doc",
+    "tags": ["launch", "q3", "campaign"],
+    "url": "#"
+  },
+  {
+    "id": "doc-002",
+    "title": "Brand Guidelines",
+    "body": "Logo usage, typography, color rules for brand consistency.",
+    "project": "Brand",
+    "team": "Design",
+    "type": "pdf",
+    "tags": ["brand", "design", "guidelines"],
+    "url": "#"
+  },
+  {
+    "id": "doc-003",
+    "title": "Support Email Templates",
+    "body": "Pre-written templates for support team responses.",
+    "project": "Support",
+    "team": "Customer Success",
+    "type": "doc",
+    "tags": ["support", "email", "templates"],
+    "url": "#"
+  }
+]
